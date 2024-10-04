@@ -261,6 +261,7 @@ header {
     background-color: #1f2936;
     color: #ffffff;
     padding: 50px 50px;
+    clear: both;
     p{ text-align: center;
     }
 
